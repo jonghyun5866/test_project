@@ -1,0 +1,14 @@
+{
+  "entries": [
+    { "path": "skills/vercel-cli-deploy" },
+    { "path": "skills/vercel-serverless-optimization" },
+    { "path": "skills/neon-postgres-pgvector" },
+    { "path": "skills/nextjs-app-router" },
+    { "path": "skills/ai-llm-pipeline" },
+    { "path": "skills/ui-ux-design-system" },
+    { "path": "skills/db-schema-seeding" },
+    { "path": "skills/anti-abuse-security" },
+    { "path": "skills/llm-structured-prompts" },
+    { "path": "skills/testing-qa-verification" }
+  ]
+}
